@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Pandas,Django,Flask,React,Sql,Docker etc.**
 
-- 👨‍💻 All of my projects are available at [github.com/dipit69](github.com/dipit69)
+- 👨‍💻 All of my projects are available at [github.com/dipit-69](github.com/dipit-69)
 
 - 📝 I regularly write articles on [Artificial Intelligence](Artificial Intelligence)
 
