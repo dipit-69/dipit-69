@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipit69" alt="dipit69" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Python,Pandas,Django,Flask,React,Sql,Docker etc.**
 
 - 👨‍💻 All of my projects are available at [github.com/dipit69](github.com/dipit69)
@@ -33,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipit69&show_icons=true&locale=en&layout=compact" alt="dipit69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipit69&show_icons=true&locale=en" alt="dipit69" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipit69&" alt="dipit69" /></p>
