@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm DIPIT BAIDYA</h1>
 <h3 align="center">A passionate Software developer and Data Analyst from India</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/4af83550-4c49-4d23-b986-d6b4e5a4d38e)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipit69&label=Profile%20views&color=0e75b6&style=flat" alt="dipit69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipit69" alt="dipit69" /></a> </p>
