@@ -1,3 +1,4 @@
+![logo](https://github.com/dipit-69/dipit-69/blob/299c07302f9405e5f4c029360438c8b340a64cb6/WhatsApp%20Image%202025-05-16%20at%2013.39.39_8d825652.jpg)
 <h1 align="center">Hi 👋, I'm DIPIT BAIDYA</h1>
 <h3 align="center">A passionate Software developer and Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
