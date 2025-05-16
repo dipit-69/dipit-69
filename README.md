@@ -32,4 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipit69&show_icons=true&locale=en&layout=compact" alt="dipit69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipit69&show_icons=true&locale=en" alt="dipit69" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?dipit-69=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
